@@ -17,7 +17,7 @@ Currently, it uses :
 ## Install & run
 
 ```
-git clone https://github.com/pandawing/eastern-mole
+git clone https://github.com/pandawing/node-eastern-mole
 cd eastern-mole
 npm install
 grunt serve
@@ -35,5 +35,5 @@ Copyright (c) 2015 sanemat [Licensed under the MIT license](./LICENSE.txt)
 
 Copyright (c) 2015 Jérôme Schneider / Net Gusto [Licensed under the MIT license](./LICENSE-IdiomaticReact.txt)
 
-[travis-url]: https://travis-ci.org/pandawing/eastern-mole
-[travis-image]: https://travis-ci.org/pandawing/eastern-mole.svg?branch=master
+[travis-url]: https://travis-ci.org/pandawing/node-eastern-mole
+[travis-image]: https://travis-ci.org/pandawing/node-eastern-mole.svg?branch=master
