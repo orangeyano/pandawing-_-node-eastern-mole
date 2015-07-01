@@ -1,5 +1,7 @@
 # Eastern Mole
 
+[![Build Status][travis-image]][travis-url]
+
 **Eastern Mole** aims to be the simplest API-centric Flux app one could build using React.
 
 Currently, it uses :
@@ -32,3 +34,6 @@ Copyright (c) 2015 sanemat [Licensed under the MIT license](./LICENSE.txt)
 ### IdiomaticReact
 
 Copyright (c) 2015 Jérôme Schneider / Net Gusto [Licensed under the MIT license](./LICENSE-IdiomaticReact.txt)
+
+[travis-url]: https://travis-ci.org/pandawing/eastern-mole
+[travis-image]: https://travis-ci.org/pandawing/eastern-mole.svg?branch=master
